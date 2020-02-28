@@ -1,0 +1,40 @@
+Parts to be made :
+
+1. Top of Carousel
+  -Tent
+  -Central Column
+  -Ring
+  -Hook
+
+2. Knight
+  -Horse + man model
+  -Lance
+  
+3. Horse animation mechanism (for lack of a better term)
+  -Rollers w/ built in cam
+  -A way to connect horse-rider to rollers w/ cam
+  
+4. Gearings
+  -crankshaft
+  -worm gear
+  -spur gear
+5 Base
+   -includes places to attach shafts and guides for roller
+   -might need bearings for turning of platform if things don't roll smoothly with oil
+    
+    
+(Please put your name beside whichever one you are working on right now)
+
+6 Ferris Wheel Frame
+7 Ferris Wheel Power
+  +belt from central shaft of carousel?
+  +
+8 Ferris Wheel Cages
+  -people inside?
+
+
+999 - Decorations for our park
+  +Pedestrians
+  +trees
+  +cotton candy stands
+  +lines of people?
